@@ -1,4 +1,4 @@
-import { Hono } from 'Hono'
+import { Hono } from 'hono'
 
 const app = new Hono()
 
