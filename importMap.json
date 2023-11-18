@@ -1,0 +1,4 @@
+    {
+        "hono": "https://deno.land/x/hono/mod.ts",
+        "hono/": "https://deno.land/x/hono/*"
+    }
